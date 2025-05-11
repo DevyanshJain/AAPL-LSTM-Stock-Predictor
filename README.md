@@ -19,7 +19,7 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict the 
 - `AAPL_Stock_Price_Prediction_LSTM.ipynb`: Full implementation notebook
 
 ## 📷 Sample Output
-![Prediction Plot]("C:\Users\HP\Pictures\Screenshots\Screenshot 2025-05-11 120259.png") <!-- Optional: replace with actual image later -->
+![Prediction Plot]("prediction_plot.png") <!-- Optional: replace with actual image later -->
 
 ## 🚀 How to Run
 1. Clone this repo:
