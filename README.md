@@ -9,7 +9,7 @@ This project uses a Long Short-Term Memory (LSTM) neural network to predict the 
 - **Performance Metric**: RMSE = 3.15
 
 ## 📊 Project Features
-- Fetches Apple stock data from 2022 to 2024
+- Predicts Apple stock data from 2022 to 2024
 - Normalizes the data using MinMaxScaler
 - Uses sliding window technique to create sequences
 - Trains a two-layer LSTM model
